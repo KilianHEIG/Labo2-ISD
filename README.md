@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> candas
 # 📘 Introduction à la Science des Données
 
 ## 🧮 Travail Pratique 02 – Outils pour le calcul scientifique II
@@ -166,6 +169,7 @@ jupyter notebook TP2_ISD_SA2025_Nom1_Nom2_Nom3.ipynb
 * [Documentation officielle Pandas](https://pandas.pydata.org/docs/)
 * [Documentation officielle Matplotlib](https://matplotlib.org/stable/users/index.html)
 * [Fondation Gapminder](https://www.gapminder.org)
+<<<<<<< HEAD
 =======
 # 📘 Introduction à la Science des Données
 
@@ -334,4 +338,6 @@ jupyter notebook TP2_ISD_SA2025_Nom1_Nom2_Nom3.ipynb
 * [Documentation officielle Pandas](https://pandas.pydata.org/docs/)
 * [Documentation officielle Matplotlib](https://matplotlib.org/stable/users/index.html)
 * [Fondation Gapminder](https://www.gapminder.org)
+>>>>>>> candas
+=======
 >>>>>>> candas
